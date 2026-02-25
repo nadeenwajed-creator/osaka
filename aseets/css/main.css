@@ -17,3 +17,12 @@ body{
     color:var(--primaryColor);
 }
 
+/*hero*/
+.hero{
+    background-image: url(./../img/hero/bg.jpg);
+    background-size:cover;
+    background-position: center ;
+}
+.primary{
+    Color: #FF206E;
+}
