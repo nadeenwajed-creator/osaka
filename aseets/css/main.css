@@ -26,3 +26,11 @@ body{
 .primary{
     Color: #FF206E;
 }
+
+/*about*/
+.about{
+    background-image: url(./../img/about/light_dot.jpg);
+}
+
+
+
